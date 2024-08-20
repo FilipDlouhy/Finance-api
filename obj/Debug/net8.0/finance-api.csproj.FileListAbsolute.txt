@@ -31,3 +31,4 @@ C:\Users\Fidlo\Desktop\FinanceShit\finance-api\obj\Debug\net8.0\refint\finance-a
 C:\Users\Fidlo\Desktop\FinanceShit\finance-api\obj\Debug\net8.0\finance-api.pdb
 C:\Users\Fidlo\Desktop\FinanceShit\finance-api\obj\Debug\net8.0\finance-api.genruntimeconfig.cache
 C:\Users\Fidlo\Desktop\FinanceShit\finance-api\obj\Debug\net8.0\ref\finance-api.dll
+C:\Users\Fidlo\Desktop\FinanceShit\finance-api\obj\Debug\net8.0\finance-api.sourcelink.json
